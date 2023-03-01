@@ -8,8 +8,7 @@
 
 💬 Let's connect and create something amazing!
 
-![Alt Text](https://cdnb.artstation.com/p/assets/images/images/030/882/347/original/brent-lattery-gohanssb02flat.gif)
-<img src="https://cdnb.artstation.com/p/assets/images/images/030/882/347/original/brent-lattery-gohanssb02flat.gif" width="100" height="100" />
+<img src="https://cdnb.artstation.com/p/assets/images/images/030/882/347/original/brent-lattery-gohanssb02flat.gif" width="400" height="400" />
 <!--
 **ImranHatefi/ImranHatefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
