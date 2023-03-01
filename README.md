@@ -8,7 +8,7 @@
 
 💬 Let's connect and create something extraordinary together!
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/030/882/347/original/brent-lattery-gohanssb02flat.gif" width="300" height="300" /> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImranHatefi&theme=chartreuse-dark&show_icons=true)
+<img src="https://cdnb.artstation.com/p/assets/images/images/030/882/347/original/brent-lattery-gohanssb02flat.gif" width="200" height="200" /> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImranHatefi&theme=chartreuse-dark&show_icons=true)
 
 
 
