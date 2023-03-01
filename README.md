@@ -8,7 +8,7 @@
 
 💬 Let's connect and create something amazing!
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://user-images.githubusercontent.com/85007480/216604270-55e9c4c3-2e43-46b8-987d-735e3c0524ff.gif))
+![Alt Text]([https://cdnb.artstation.com/p/assets/images/images/030/882/347/original/brent-lattery-gohanssb02flat.gif?1601944847])
 
 <!--
 **ImranHatefi/ImranHatefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
