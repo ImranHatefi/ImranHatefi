@@ -9,7 +9,9 @@
 💬 Let's connect and create something extraordinary together!
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/030/882/347/original/brent-lattery-gohanssb02flat.gif" width="300" height="300" />
-![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranhatefi&theme=chartreuse-dark&show_icons=true )
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImranHatefi&show_icons=true&hide_border=true)
 <!--
 **ImranHatefi/ImranHatefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
