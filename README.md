@@ -9,7 +9,6 @@
 💬 Let's connect and create something extraordinary together!
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/030/882/347/original/brent-lattery-gohanssb02flat.gif" width="200" height="200" />         
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImranHatefi&theme=chartreuse-dark&show_icons=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImranHatefi&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
